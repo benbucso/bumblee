@@ -1,0 +1,4 @@
+
+
+    ip Pixelsm1.aternos.me
+    port 16978
